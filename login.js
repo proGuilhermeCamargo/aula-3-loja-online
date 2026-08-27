@@ -1,7 +1,3 @@
-
-
-
 export const Login = () => {
-    return "Tela de login"
+    return "Tela de login alteracao tela cadastro"
 }
-
